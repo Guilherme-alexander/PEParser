@@ -1,0 +1,35 @@
+# Executáveis
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de objeto
+*.o
+*.obj
+
+# Debug
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# MinGW
+*.a
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+bin/
